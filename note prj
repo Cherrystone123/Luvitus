@@ -1,0 +1,28 @@
+Features
+
+Admin
+Post CRUD // 
+	Post create > Photos,Title,Content,Category
+
+
+User
+Post Showcase
+
+Route SYS
+/ welcome //post get
+dashboard //post get
+
+admin/create
+admin/edit/2
+admin/delete/2
+
+Category
+
+category // to select category of items
+category/id // to give posts list of same category
+
+img showcase
+
+img
+
+SEO
